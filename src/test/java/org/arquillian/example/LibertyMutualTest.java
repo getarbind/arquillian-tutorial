@@ -37,8 +37,8 @@ public class LibertyMutualTest {
             System.out.println("Test Failed");
         }
         //String tagName = driver.findElement(By.id("email")).getTagName();
-        WebElement tagName = driver.findElement(By.xpath("//button[contains(.,'Auto')]"));
-        System.out.println(tagName);
+        //WebElement tagName = driver.findElement(By.xpath("//button[contains(.,'Auto')]"));
+        //System.out.println(tagName);
 
        
         //close Fire fox
